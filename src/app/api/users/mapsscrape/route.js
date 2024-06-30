@@ -19,6 +19,7 @@ import 'puppeteer-extra-plugin-stealth/evasions/webgl.vendor';
 import 'puppeteer-extra-plugin-stealth/evasions/window.outerdimensions';
 import 'puppeteer-extra-plugin-stealth/evasions/defaultArgs';
 import 'puppeteer-extra-plugin-user-preferences';
+import 'puppeteer-extra-plugin-user-data-dir';
 // Enhanced version of Puppeteer for additional functionality
 import { NextRequest, NextResponse } from "next/server";
 // Import and use stealth plugin to prevent detection of the browser automation

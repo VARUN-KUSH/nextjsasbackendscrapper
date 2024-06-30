@@ -52,7 +52,8 @@ const nextConfig = {
       'puppeteer-extra-plugin-stealth/evasions/webgl.vendor',
       'puppeteer-extra-plugin-stealth/evasions/window.outerdimensions',
       'puppeteer-extra-plugin-stealth/evasions/defaultArgs',
-      'puppeteer-extra-plugin-user-preferences'
+      'puppeteer-extra-plugin-user-preferences',
+      'puppeteer-extra-plugin-user-data-dir'
      
     );
 
